@@ -1,6 +1,13 @@
-DAY -1 Learning Flask
-DAY -2 Learning Flask
-DAY -3 Flask Server Created
-DAY -4 Learnt to Flask server and android app connected
-Day -5 Made PhoneAuth using firebase and learning nodeJs
-Day -6 Made GoogleAuth using Google API
+ Learning Flask
+ Learning Flask
+ Flask Server Created
+ Flask server and android app connected
+ Made PhoneAuth using firebase and learning nodeJs
+ Made GoogleAuth using Google API
+ Learnt to create nodejs server
+ Learnt to connect android app and nodeJS server
+ Learnt to connect android app to mongo
+ Android app sending info to mongo database
+ Learnt sqlite in android
+ Learnt to integrate Google Maps in android
+ Learning to send video from android to nodejs server
